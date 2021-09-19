@@ -36,7 +36,7 @@
 
 - In which professional competencies do you each want to develop greater strength?
 
-  **My designing skills**
+  **My designing skills.**
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
