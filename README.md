@@ -121,7 +121,7 @@
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-  **We will meet per day and every one will have 10 minutes as presentation of what he did that's just will take one hour from our day and also because that we work to gather the 10 minutes would be enough.**
+  **We will meet per day and everyone will have 10 minutes as presentation of what he did that's just will take one hour from our day and also because that we work to gather the 10 minutes would be enough.**
   
 ---
 
