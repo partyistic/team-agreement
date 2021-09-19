@@ -225,7 +225,7 @@
 
 - What is your Git flow?
 
-  **Each member of us will use a branch to work on it and push his/her work to GitHub.**
+  **Feature Branch Workflow**
 
 - Will you be using a PR review workflow? If so, consider:
 
