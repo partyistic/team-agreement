@@ -161,7 +161,8 @@
 
 - How will you raise concerns to members who are not adequately contributing?
 
-  **We will ask them many times to do their work, and explain to them the importance of understanding this project in order to present it at the end.**
+  **We will ask them many times to do their work, and explain to them the importance of understanding this project in order to take credit for contributing in making it.
+Also knowing that this is the final project of this course means it's the first project each one of us should be able to proudly talk about in any interview, and not making obvious contributions will affect the person in the future.**
 
 - How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
