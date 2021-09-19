@@ -206,7 +206,10 @@ Also knowing that this is the final project of this course means it's the first 
 
 - How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-  **Identifying and assigning the tasks shall be done in a meeting with the members where all of us will express how the tasks should assigned according skills to get the best result from the team, knowing when tasks will be completed will be through the members, when each member finishes his/her tasks we will hold a meeting to go through it make sure it’s all according to plan we will of course have deadlines, and will manage the project through breakout room.**
+  **Identifying and assigning the tasks shall be done in a meeting with the members where all of us will express how the tasks should be assigned according to skills to get the best results from the team.
+We will also use a Trello board to make sure each one of us knows exactly what is the task required of him/her in a specific day.
+We will be making a standup meeting for at least 10 minutes everyday to make sure that no one has any blockers and that all tasks from the day before are completed. Also to assign new tasks for the day.
+We also made a channel on slack so if anyone needed help can send there and the free person would be glad to help.**
 
 - What project management tool will be used?
 
