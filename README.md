@@ -28,19 +28,19 @@
 
 - What are the key strengths of each person on the team?
 
-  ****
+  **Good background in programming languages.**
 
 - How can you best utilize these strengths in the execution of your project?
 
-  ****
+  **When team members use their abilities and strengths in the right place, they will be creative and successful.**
 
 - In which professional competencies do you each want to develop greater strength?
 
-  ****
+  **My designing skills**
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-  ****
+  **Each day all team members will discuss the progress that was made in the project and understand it before moving to the next day.**
 
 ---
 
@@ -68,19 +68,19 @@
 
 - What are the key strengths of each person on the team?
 
-  ****
+  **Abstract thinking, problem solving, accuracy, attention to details, adaptability and quick learner.**
 
 - How can you best utilize these strengths in the execution of your project?
 
-  ****
+  **I can pay attention to details that will prevent typos and make sure that the project is presented in a smooth professional way.**
 
 - In which professional competencies do you each want to develop greater strength?
 
-  ****
+  **Problem solving and quick learning.**
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-  ****
+  **Communication in group projects is the key to success. Coping and understanding that I'm not working individually and will have to change some of my daily routines so that it fits the group.**
 
 ---
 
@@ -109,19 +109,19 @@
 
 - What are the key strengths of each person on the team?
 
-  ****
+  **Work under pressure.**
 
 - How can you best utilize these strengths in the execution of your project?
 
-  ****
+  **Because we just have four days I will work more than 12 hours to finish the project.**
 
 - In which professional competencies do you each want to develop greater strength?
 
-  ****
+  **Work as team I prefer to get the high-level**
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-  ****
+  **We will meet per day and every one will have 10 minutes as presentation of what he did that's just will take one hour from our day and also because that we work to gather the 10 minutes would be enough.**
   
 ---
 
