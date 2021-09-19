@@ -149,7 +149,7 @@
 
 - What will be your group’s process to resolve conflict, when it arises?
 
-  **In our team we will resolve all the conflicts by not avoiding them and deal with these uncomfortable issues as soon as possible by talking together about the disagreements and how we feel about the situation then finding points of agreement**
+  **In our team we will resolve all the conflicts by not avoiding them and deal with these uncomfortable issues as soon as possible by talking together about the disagreements and how we feel about the situation then finding points of agreement.**
 
 - What will your team do if one person is taking over the project and not letting the other members contribute?
 
@@ -161,7 +161,7 @@
 
 - How will you raise concerns to members who are not adequately contributing?
 
-  **We will ask them many times to do their work, and explain to them the importance of understanding this project in order to present it at the end**
+  **We will ask them many times to do their work, and explain to them the importance of understanding this project in order to present it at the end.**
 
 - How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
@@ -173,7 +173,7 @@
 
 - What hours will you be available to communicate?
 
-  **On our main working hours as it will be the lab time during the lecture time and we made another working schedule to continue our work after the lap time**
+  **On our main working hours as it will be the lab time during the lecture time and we made another working schedule to continue our work after the lap time.**
 
 - What platforms will you use to communicate (ie. Slack, phone …)?
 
@@ -185,19 +185,19 @@
 
 - What is your plan if you start to fall behind?
 
-  **Talk with the leader and explain my situation**
+  **Talk with the leader and explain my situation.**
 
 - How will you communicate after hours and on the weekend?
 
-  **Our day off will be on Friday to have a good rest and study more. and communicate using slack**
+  **Our day off will be on Friday to have a good rest and study more. and communicate using slack.**
 
 - What is your strategy for ensuring everyone’s voice is heard?
 
-  **Each one will let the others talking about their opinion and listen to them carefully**
+  **Each one will let the others talking about their opinion and listen to them carefully.**
 
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-  **Respect them even if we have different opinions**
+  **Respect them even if we have different opinions.**
 
 &nbsp;
 
@@ -217,15 +217,15 @@
 
 - What components of your project will live on GitHub?
 
-  **We will create an organization have and two repos, the first one for this team agreement and the second for project repo**
+  **We will create an organization have and two repos, the first one for this team agreement and the second for project repo.**
 
 - How will you share the repository with your teammates?
 
-  **We will create an organization that have all team members as owners**
+  **We will create an organization that have all team members as owners.**
 
 - What is your Git flow?
 
-  **Feature Branch Workflow**
+  **Feature Branch Workflow.**
 
 - Will you be using a PR review workflow? If so, consider:
 
@@ -243,4 +243,4 @@
 
   - How will you communicate that it’s time to merge?
 
-    **Each end of the day**
+    **Each end of the day.**
